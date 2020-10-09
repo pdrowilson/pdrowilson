@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gig" widht="30%"
+</p>
+
+
 ### Hi there, I'm Pedro 👋
 
 - 🌱 I’m currently learning everything 🤣
