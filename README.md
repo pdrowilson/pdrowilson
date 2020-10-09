@@ -1,7 +1,3 @@
-<p align="center">
-https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gig
-</p>
-
 ### Hi there, I'm Pedro 👋
 
 - 🌱 I’m currently learning everything 🤣
