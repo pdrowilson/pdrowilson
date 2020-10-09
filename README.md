@@ -2,8 +2,6 @@
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" widht="10%"
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<pdrowilson>/>
-
 ### Hi there, I'm Pedro 👋
 
 - 🌱 I’m currently learning everything 🤣
