@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to improve my frontend skills
-- 🥅 2020 Goals: Turn Grenn my githubcontribution graphcontribution graph!!!
+- 🥅 2020 Goals: Turn Grenn my github contribution graph!!!
 - ⚡ Fun fact: I love to draw and play games
 
 ---
