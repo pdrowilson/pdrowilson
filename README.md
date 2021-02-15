@@ -1,12 +1,8 @@
-<p align="center">
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" widht="10%"
-</p>
-
 ## Hi there, I'm Pedro 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 📚 I’m looking to improve my frontend skills
-- 🥅 2020 Goals: Turn Grenn my github contribution graph!!!
+- 🥅 2021 Goals: Turn Grenn my github contribution graph!!!
 - ⚡ Fun fact: I love to draw and play games
 
 ---
