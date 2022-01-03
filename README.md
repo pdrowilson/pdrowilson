@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 📚 I’m looking to improve my frontend skills
-- 🥅 2021 Goals: Turn Green my github contribution graph!!!
+- 🥅 2022 Goals: Turn Green my github contribution graph!!!
 - ⚡ Fun fact: I love to draw and play games
 
 ---
