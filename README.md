@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 📚 I’m looking to improve my frontend skills
 - 🥅 2026 Goals: Turn Green my github contribution graph!!!
-- ⚡ Fun fact: I love to draw and play games
 
 #
 
